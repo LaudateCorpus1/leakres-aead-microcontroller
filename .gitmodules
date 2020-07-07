@@ -1,0 +1,9 @@
+[submodule "host/mbedtls.git"]
+	path = host/mbedtls.git
+	url = https://github.com/ARMmbed/mbedtls.git
+[submodule "firmware/targets/stm32/STM32CubeF2"]
+	path = firmware/targets/stm32/STM32CubeF2
+	url = https://github.com/STMicroelectronics/STM32CubeF2
+[submodule "firmware/targets/stm32/tinycrypt"]
+	path = firmware/targets/stm32/tinycrypt
+	url = https://github.com/intel/tinycrypt
